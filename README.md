@@ -1,15 +1,85 @@
 # Muhammad-Shoaib
-Business Intelligence Developer | Data Analyst | Telling data stories through visuals
+Business Intelligence Consultant | Data Analyst
+Making Data Visible, Actionable & Executive-Ready
 
+I specialize in transforming fragmented and complex data into structured, decision-ready intelligence for leadership teams. My work focuses on designing scalable Business Intelligence solutions that go beyond reporting-building governed data products that support clarity, accountability, and measurable business outcomes.
 
-Hi there 👋
-Welcome to my GitHub profile...I know what you are here for🌚...Hear me out...I am a Business Intelligence Developer, Data Analyst
+With over 5 years of experience and international onsite exposure across healthcare, finance, and academic sectors, I have delivered analytics solutions that align operational performance with strategic objectives. I help organizations move from static dashboards to insight-driven decision systems.
 
-About Me 💻 📊
-I am a Data Analyst with experience using Python, Power BI, and SQL for data extraction, wrangling, cleaning, transformation, modeling, analysis, and visualization.
+🎯 What I Deliver
 
-I specifically use Power BI for building reports and dashboards that communicates insights in a more structured way. You can check out some of my Power BI projects
+Executive-ready Power BI dashboards designed for leadership conversations
 
-I also use Python and other Python libraries like Pandas, Numpy, Matplotlib.pyplot, Seaborn, Keras, Tensorflow, etc. for building data preprocessing, feature engineering, and for building machine learning/deep learning models.
+Structured semantic data models using advanced DAX
 
-Currently, I am working on personal projects, creating related contents and open to collaborations and remote contract jobs.
+Automated ETL workflows and optimized data transformation pipelines
+
+KPI frameworks with weighted performance scoring
+
+Forecasting and trend analysis for proactive planning
+
+Cloud-based BI architectures using Microsoft Fabric
+
+Documentation-driven data products ensuring governance and adoption
+
+🧠 My Approach
+
+Start with Business Questions – Define what decisions need to be supported.
+
+Design Strong Foundations – Clean data models, reliable KPIs, governed metrics.
+
+Build for Executives – Clarity, signal over noise, and storytelling flow.
+
+Ensure Adoption – Scalable systems with documentation and training support.
+
+If insights are not trusted or actionable, they do not create value.
+
+🛠 Technical Stack
+Business Intelligence & Visualization
+
+Power BI (Advanced DAX, Performance Optimization)
+
+Tableau
+
+Executive Dashboard Design
+
+Data Storytelling & Insight Narratives
+
+Data Engineering & Modeling
+
+SQL
+
+Data Warehousing
+
+Power Query (M Language)
+
+Data Preparation & Transformation
+
+Semantic Modeling
+
+Automation & Cloud
+
+Microsoft Fabric
+
+Power Automate
+
+Cloud-based Reporting Architecture
+
+Analytics & Programming
+
+Python (Data Analysis & Automation)
+
+🎓 Academic & Professional Credentials
+
+Master’s in Business Intelligence & Data Analytics
+
+Microsoft Certified Data Analyst Associate
+
+Professional certifications in analytics and BI tools
+
+💡 Focus Areas
+
+Healthcare Analytics | Financial Performance Analytics | Academic Data Systems | Operational Dashboards | E-commerce & Sales Intelligence | KPI Governance | Decision Intelligence
+
+My goal is simple:
+To help organizations see clearly, decide confidently, and operate with evidence—not assumptions.
